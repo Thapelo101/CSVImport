@@ -1,0 +1,7 @@
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.csproj.AssemblyReference.cache
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.AssemblyInfoInputs.cache
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.AssemblyInfo.cs
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.csproj.CoreCompileInputs.cache
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.RazorAssemblyInfo.cache
+C:\Users\thapelo.chuene\Documents\My Personal Stuff\Assessment\Smollen\CSVImport\CSVImport\obj\Debug\netcoreapp3.1\CSVImport.RazorAssemblyInfo.cs
